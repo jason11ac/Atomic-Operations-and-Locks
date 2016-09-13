@@ -1,5 +1,5 @@
 # Atomic-Operations-and-Locks
-Project for my CS 111 Class
+Project 2 for my CS 111 Class
 
 ~~~~~~~                 	                            Jason Alvarez-Cohen
 README                          	                    UID: 504487052
